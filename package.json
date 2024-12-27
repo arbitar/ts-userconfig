@@ -3,7 +3,7 @@
   "author": "aurbi <npm@arbi.in>",
   "keywords": [],
   "description": "Typescript helper type library that handles my preferred pattern for configuration objects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf dist/*",
